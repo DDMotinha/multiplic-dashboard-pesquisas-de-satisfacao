@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap');
+
+@media{
+
+}
+body{
+  background-color: #b6daf8;
+}
+.container{
+  display: flex;
+  width: 95vw;
+  height: 95vh;
+  min-width: 70%;
+  min-height: 70%;
+  text-align: center;
+  align-content: center;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.dataContainer{
+  align-content: center;
+  text-align: center;
+  margin-bottom: 3%;
+}
+.baseContainer{
+  align-content: center;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+}
+img{
+ max-width: 20%;
+ min-width: 200px;
+}
+.loginContainer{
+  margin: 30px;
+  text-align: center;
+  align-content: center;
+  display: inline-block;
+  width: 20%;
+}
+#submit{
+  margin-top: 3%;
+  width: 5rem;
+  height: 1.5rem;
+}
+#login{
+  margin-bottom: 2%;
+  padding-left: 15%;
+}
