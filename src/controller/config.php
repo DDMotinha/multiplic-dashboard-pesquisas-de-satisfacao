@@ -1,9 +1,9 @@
 <?php
 /* ATATCH */
-$server = '';
-$username = '';
-$passw = '';
-$dbname = '';
+$server = 'multiplicnet.com.br';
+$username = 'devpesquisa';
+$passw = '@res4!*';
+$dbname = 'sql10357487';
  
 /* Attempt to connect to MySQL database */
 $link = mysqli_connect($server, $username, $passw, $dbname);
